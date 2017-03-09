@@ -1,0 +1,50 @@
+{
+  "name": "generator-webpack-lib",
+  "version": "1.0.0",
+  "description": "Scaffold out a webpack based library",
+  "homepage": "https://github.com/tiaanduplessis/generator-dup",
+  "main": "app/index.js",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "npm run lint"
+  },
+  "files": [
+    "app"
+  ],
+  "repository": {
+    "url": "https://github.com/tiaanduplessis/generator-webpack-lib.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Tiaan du Plessis",
+    "email": "tiaanduplessis@hotmail.com",
+    "url": "http://tiaanduplessis.co.za/"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "boilerplate",
+    "template",
+    "scaffold",
+    "node",
+    "module",
+    "node-module"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "humanize-url": "^1.0.1",
+    "normalize-url": "^1.8.0",
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^1.0.0",
+    "yosay": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^9.0.0"
+  },
+  "standard": {
+    "ignore": [
+      "app/templates/**"
+    ]
+  }
+}
