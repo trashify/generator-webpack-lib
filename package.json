@@ -1,6 +1,6 @@
 {
   "name": "generator-webpack-lib",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scaffold out a webpack based library",
   "homepage": "https://github.com/tiaanduplessis/generator-dup",
   "main": "app/index.js",
