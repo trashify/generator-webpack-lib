@@ -1,4 +1,4 @@
-<h1 align="center">🍦 generator-webpack-lib 🍦</h1>
+<h1 align="center">DEPRECATED - 🍦 generator-webpack-lib</h1>
 <br>
 <div align="center">
   <strong>Scaffold out a webpack based library</strong>
